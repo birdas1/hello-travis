@@ -1,5 +1,6 @@
 # hello-travis
 Hello test project that is ready for Travis CI
+making a new push
 
 Using make:
 1. make clean
